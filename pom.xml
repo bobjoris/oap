@@ -156,8 +156,8 @@
                     </artifactSet>
                     <relocations>
                         <relocation>
-                            <pattern>guava</pattern>
-                            <shadedPattern>oap.guava</shadedPattern>
+                            <pattern>com.google</pattern>
+                            <shadedPattern>oap.com.google</shadedPattern>
                         </relocation>
                         <relocation>
                             <pattern>okhttp</pattern>
